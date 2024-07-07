@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "title": "Ultimate Guide: Effective Strategies for Boosting SEO Rankings in 2024",
+    "image": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "category": "SEO",
+    "author": "Aman Kapoor",
+    "authorPic": "author1.jpg",
+    "published_date": "May 4, 2024",
+    "reading_time": "7 minutes",
+    "content": "Discover proven tactics like optimizing content, improving site speed, and building quality backlinks to elevate your SEO rankings effectively in 2024. Stay ahead with actionable strategies and insights...",
+    "tags": ["SMM", "Ads"]
+  },
+  {
+    "id": 3,
+    "title": "Top 10 SEO Trends Every Marketer Should Know to Stay Ahead in 2024",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "category": "SEO",
+    "author": "Fardeen",
+    "authorPic": "author1.jpg",
+    "published_date": "2023-10-01",
+    "reading_time": "5 minutes",
+    "content": "Explore the latest SEO trends for 2024, including voice search optimization, AI in SEO, and E-A-T principles. Learn how to adapt and thrive in the evolving digital landscape.",
+    "tags": ["SMM", "Ads"]
+  }
+]
